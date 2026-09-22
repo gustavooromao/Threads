@@ -1,4 +1,7 @@
-Atividade Prática - Sistemas Operacionais
+# Atividade Prática - Sistemas Operacionais
+
+**Aluno:** Gustavo Romão
+
 
 Automação com Threads: abertura do Bloco de Notas e escrita automática de texto.
 
