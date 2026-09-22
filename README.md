@@ -1,4 +1,5 @@
 Atividade Prática - Sistemas Operacionais
+
 Automação com Threads: abertura do Bloco de Notas e escrita automática de texto.
 
 Requisitos atendidos:
